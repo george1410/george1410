@@ -1,6 +1,6 @@
 # Hi! I'm George 🚀
 
-### 👨‍💻 I do web stuff at [ClearScore](https://clearscore.com)
+### I do web stuff at [ClearScore](https://clearscore.com)
 
 <!--
 **george1410/george1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
