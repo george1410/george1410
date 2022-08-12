@@ -1,4 +1,4 @@
-# Hi! I'm George 🚀
+# George McCarron 🚀
 
 ### I do web stuff at [ClearScore](https://clearscore.com)
 
