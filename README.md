@@ -1,6 +1,6 @@
 # George McCarron 🚀
 
-### I do web stuff at [ClearScore](https://clearscore.com)
+### Building cool stuff at [Orbital Witness](https://orbitalwitness.com)
 
 <!--
 **george1410/george1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
