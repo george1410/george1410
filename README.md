@@ -1,6 +1,6 @@
 # George McCarron 🚀
 
-### Building cool stuff at [Orbital Witness](https://orbitalwitness.com)
+### Shipping early & often at [Orbital](https://orbital.tech)
 
 <!--
 **george1410/george1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
