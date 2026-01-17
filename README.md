@@ -1,6 +1,6 @@
 # George McCarron 🚀
 
-### Shipping early & often at [Orbital](https://orbital.tech)
+### Building at [incident.io](https://incident.io)
 
 <!--
 **george1410/george1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
